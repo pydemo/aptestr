@@ -87,6 +87,6 @@ C:\\Python35-64\\python.exe ..\\aptestr\create_gif.py
 ### Result
 
 
-![gif](https://github.com/alexbuz/aptestr/blob/master/Gif-20sec.gif)
+![gif](https://github.com/pydemo/aptestr/blob/master/aptestr.gif?raw=true)
 
 
