@@ -87,6 +87,6 @@ C:\\Python35-64\\python.exe ..\\aptestr\create_gif.py
 ### Result
 
 
-![gif](https://qph.fs.quoracdn.net/main-qimg-27933cf80127b2bf2cf2b1f19d2d0643)
+![gif](https://github.com/pydemo/aptestr/blob/master/aptestr.gif?raw=true)
 
 
