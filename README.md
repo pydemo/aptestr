@@ -90,3 +90,4 @@ C:\\Python35-64\\python.exe ..\\aptestr\create_gif.py
 ![gif](https://github.com/pydemo/aptestr/blob/master/aptestr.gif?raw=true)
 
 
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
