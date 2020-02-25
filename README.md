@@ -1,3 +1,5 @@
+[I'm looking for a new gig](https://github.com/pydemo/Resume)
+
 # aptestr
 Test multi-window network application using Python
 
